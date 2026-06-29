@@ -4,7 +4,6 @@
 apprentissage profond, et évaluation de l'adaptation de domaine adversariale
 (DANN) pour la restaurer. Stage de fin d'études — ESILV / Airbus Protect.
 
-📄 **Rapport complet :** [lien vers ton rapport ici]
 
 ## Résumé
 
