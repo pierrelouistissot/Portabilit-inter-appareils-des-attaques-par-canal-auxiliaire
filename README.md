@@ -2,7 +2,7 @@
 
 Étude de la portabilité inter-appareils d'une attaque AES profilée par
 apprentissage profond, et évaluation de l'adaptation de domaine adversariale
-(DANN) pour la restaurer. Stage de fin d'études — ESILV / Airbus Protect.
+(DANN) pour la restaurer.
 
 
 ## Résumé
@@ -10,10 +10,13 @@ apprentissage profond, et évaluation de l'adaptation de domaine adversariale
 Une attaque profilée récupère la clé AES en quelques centaines de traces sur son
 appareil d'origine, mais échoue dès qu'on change d'appareil (problème de
 *portabilité*). Ce travail quantifie ce verrou sur la base multi-appareils
-AES_PT, puis évalue le DANN comme solution. Résultat principal : le DANN aligne
+AES_PT, puis évalue le DANN comme solution. 
+
+
+Résultat principal : le DANN aligne
 effectivement les représentations entre appareils, mais cet alignement ne se
 traduit pas en gain d'attaque fiable — l'avantage est noyé dans la variance et
-aucune clé n'est récupérée. *Alignement réussi n'implique pas attaque réussie.*
+aucune clé n'est récupérée.
 
 ## Données (non incluses dans le dépôt)
 
